@@ -11,7 +11,7 @@ Amazon:Amazon_Max_weight_of2.cpp
 HSBC1:HSBC_addition.cpp
 	$(CC) $(CPPFLAGS)  ./HSBC_addition.cpp -o ./bin/HSBC1
 
-HSBC2:HSBC_HSBC_longest_words.cpp
+HSBC2:HSBC_longest_words.cpp
 	$(CC) $(CPPFLAGS)  ./HSBC_longest_words.cpp -o ./bin/HSBC2
 
 #---------- running -----------
