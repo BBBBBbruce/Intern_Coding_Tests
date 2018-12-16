@@ -4,11 +4,12 @@
 using namespace std;
 
 class combination{
-
-  public:
+  private:
     double ele1;
     double ele2;
     double total;
+  public:
+
     combination(double e1, double e2){
       ele1=e1;
       ele2=e2;
